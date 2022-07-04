@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo Database</string>
+    <string name="btn">INSERT</string>
+    <string name="btn2">GET TASK</string>
+    <string name="et1">Task name</string>
+    <string name="et2">Task date</string>
+</resources>
